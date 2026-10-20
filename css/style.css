@@ -42,9 +42,9 @@ body {
   color: black;
 }
 .headerimg {
-  border-style: solid;
+  border-style: dashed;
   border-color: black;
-  border-width: 1px;
+  border-width: 2px;
 }
 .tabbed {
   text-align: left;
